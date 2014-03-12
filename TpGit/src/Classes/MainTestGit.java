@@ -11,5 +11,6 @@ public class MainTestGit {
 	    	System.out.print (monAtelier.getLibelleatelier());
 	    	
 	    }
+	 //bonjour
 
 }
